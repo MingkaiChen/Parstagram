@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-(https://files.mingkai.me/Parstagram.gif)
+![](https://files.mingkai.me/Parstagram.gif)
 
